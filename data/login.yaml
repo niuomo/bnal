@@ -1,0 +1,40 @@
+bnal_login001:
+  username: "15028545327"
+  pwd: "123456"
+  nickname: "niuomo"
+  expect_toast: null
+bnal_login002:
+  username: " 15028545327 "
+  pwd: "123456"
+  nickname: "niuomo"
+  expect_toast: null
+bnal_login003:
+  username: "niuomo"
+  pwd: "123456"
+  nickname: "niuomo"
+  expect_toast: null
+bnal_login004:
+  username: " niuomo "
+  pwd: "123456"
+  nickname: "niuomo"
+  expect_toast: null
+bnal_login007:
+  username: "150285453277"
+  pwd: "123456"
+  nickname: null
+  expect_toast: "此用户不存在"
+bnal_login008:
+  username: "15028545328"
+  pwd: "123456"
+  nickname: null
+  expect_toast: "此用户不存在"
+bnal_login009:
+  username: "15028545327"
+  pwd: "1234567"
+  nickname: null
+  expect_toast: "登录密码错误"
+bnal_login010:
+  username: "niuomoo"
+  pwd: "123456"
+  nickname: null
+  expect_toast: "此用户不存在"

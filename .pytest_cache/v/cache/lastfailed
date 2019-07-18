@@ -1,0 +1,4 @@
+{
+  "script/test_address.py::TestAddress::()::test01_modify_address[\\u674e\\u56db-150288545327-\\u5317\\u4eac\\u5e02-\\u5317\\u4eac\\u5e02-\\u4e30\\u53f0\\u533a-XXXX\\u5927\\u5b66-100081]": true,
+  "script/test_address.py::TestAddress::()::test01_modify_address[\\u674e\\u56db-150288545327-\\u5317\\u4eac\\u5e02-\\u5317\\u4eac\\u5e02\\u4e30\\u53f0\\u533a-XXXX\\u5927\\u5b66-100081]": true
+}

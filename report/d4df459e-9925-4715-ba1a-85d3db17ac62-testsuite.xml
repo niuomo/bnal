@@ -1,0 +1,18 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1563435855485" stop="1563435884203">
+  <name>test_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1563435855485" status="passed" stop="1563435884203">
+      <name>TestAddress.test01_modify_address[\u674e\u56db-150288545327-\u5317\u4eac\u5e02-\u4e30\u53f0\u533a-XXXX\u5927\u5b66-100081]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="6512-MainThread"/>
+        <label name="host" value="Shinelon-PC"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
